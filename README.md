@@ -2,11 +2,12 @@
 
 Welcome to the repository containing code and documentation for the Data Science Job Simulation project. This project was completed as part of a job simulation program with British Airways, in collaboration with Forage.
 
-![Certificate of Completion]((https://github.com/taharizvi-ai/British-airways-Data-Science-Job-Simulation-/blob/main/Certificate.png))
-
 ## Overview
 
 This repository includes implementations of practical data science tasks completed during the job simulation. The tasks focus on using Python for data analysis, web scraping, and machine learning to gain company insights and predict customer buying behavior.
+
+![Certificate of Completion](https://github.com/taharizvi-ai/British-airways-Data-Science-Job-Simulation-/blob/main/Certificate.png)
+
 
 ## Tasks Completed
 
